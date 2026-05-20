@@ -34,13 +34,13 @@ The glowing neon interface is not mere cosmetic ornament—it reflects the funda
 
 ## 🧮 Comprehensive Operator Manual
 
-### 🏫 Basic Arithmetic & Entry (Grades I–V)
+### 🏫 Basic Arithmetic & Entry (Grades I–III)
 For foundational computation, utilize standard numerical inputs along with traditional operators:
 * **Operators:** Addition (`+`), Subtraction (`-`), Multiplication (`×`), and Division (`÷`).
 * **Grouping:** Explicitly define operator precedence using deep grouping brackets `(` and `)`.
 * **Percentage System:** Calculates arbitrary structural ratios ($a\%$ of $b$) safely via optimized processing.
 
-### 📐 Advanced Scientific Functions (Grades VI–XII)
+### 📐 Advanced Scientific Functions (Grades IV–XII)
 Unlock the secondary analytical tier for higher-level mathematics:
 * **Trigonometry:** High-precision evaluation of `sin`, `cos`, and `tan` inputs natively mapped to standard Radian metrics.
 * **Inverse Circular Functions:** Calculate arc measurements reliably through built-in domain-guarded `asin`, `acos`, and `atan` functional paths.
