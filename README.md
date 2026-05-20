@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Built Without](https://img.shields.io/badge/Built%20Without-eval()-red.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
 [![Year](https://img.shields.io/badge/Timeline-Year%203000-cyan.svg)](#)
-[![Made by:](https://img.shields.io/badge/Made%20By-The%20TFSE%20Labs%2E-green.svg)](#)
+[![Made by](https://img.shields.io/badge/Made%20By-The%20TFSE%20Labs%2E-green.svg)](#)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-yellow.svg)
 
 (*TFS stands for "Tools For Students and Engineers"*)
 
