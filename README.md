@@ -5,6 +5,7 @@
 [![Year](https://img.shields.io/badge/Timeline-Year%203000-cyan.svg)](#)
 [![Made by](https://img.shields.io/badge/Made%20By-The%20TFSE%20Labs%2E-green.svg)](#)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-yellow.svg)
+[![Changelog](https://img.shields.io/badge/Changelog-Click%20this%20image%20to%20teleport-aqua.svg)](https://github.com/afifashamsadvivo/h2ocalc/wiki/Changelog)
 
 (*TFS stands for "Tools For Students and Engineers"*)
 
