@@ -1,7 +1,7 @@
 ---
 name: 🎨 UI / Layout Anomaly
 about: Report a responsive scaling breakage, rendering glitch, or neon blur failure.
-title: "[UI-ANOMALY]: "
+title: "[UI-ANOMALY] "
 labels: ["ui-ux", "css-glitch"]
 ---
 
