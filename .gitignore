@@ -1,0 +1,19 @@
+# 📁 System Operating Cache Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🛠️ Editor Workspace Configuration Directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 🌐 Local Node / Extension Servers (If used by local hosts)
+node_modules/
+.npm/
+dist/
+build/
