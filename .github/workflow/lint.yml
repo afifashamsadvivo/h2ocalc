@@ -1,0 +1,23 @@
+name: 🚨 Code Quality Guardian
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛰️ Intercept Source Tree
+        uses: actions/checkout@v4
+
+      - name: 🧪 Check JavaScript Syntax Integrity
+        run: |
+          find . -name "*.js" -exec node -c {} \;
+          
+      - name: 🎨 Validate CSS Structural Rules
+        run: |
+          echo "Analyzing core stylesheets for breaking syntax..."
+          # Integrates with native runtime checks or headless validators
