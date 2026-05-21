@@ -79,13 +79,6 @@ For desktop-class operators, the environment intercepts physical input arrays au
 * **Exponentials & Radicals:** Execute flexible powers ($x^y$), strict squares ($x^2$), square roots ($\sqrt{x}$), and anti-log foundations ($10^x$, $e^x$).
 * **Discrete Operators:** Absolute values ($|x|$), integer-isolated Factorials ($n!$), and structural Modulo remainder calculation (`mod`).
 
-### 🧠 The Volatile Memory Bank
-Retain complex cumulative computational fragments during deep execution loops:
-* **`MS` (Memory Store):** Captures the current evaluated value and writes it directly to the internal buffer, replacing previous records.
-* **`MR` (Memory Recall):** Extracts the preserved memory variable and instantly appends it to the active cursor stream.
-* **`M+` / `M-` (Memory Alteration):** Direct arithmetic compilation—adds or subtracts the current active display value to/from the memory block without clearing the queue.
-* **`MC` (Memory Clear):** Purges the saved memory ledger back to absolute zero.
-
 ---
 
 ## 🛠️ Engine Mechanics & Technical Stack
