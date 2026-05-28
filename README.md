@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-yellow.svg)
 [![Changelog](https://img.shields.io/badge/Changelog-Click%20this%20image%20to%20teleport-aqua.svg)](https://github.com/afifashamsadvivo/h2ocalc/wiki/Changelog)
 
-(*TFS stands for "Tools For Students and Engineers"*)
+(*TFSE stands for "Tools For Students and Engineers"*)
 
 Welcome to the official repository for **The Ultimate H₂O Calculator 3000** (Version 26.05). This is a neon-drenched, high-performance, responsive scientific calculator engineered for operators demanding absolute mathematical precision wrapped in a cyberpunk aesthetic. 
 
